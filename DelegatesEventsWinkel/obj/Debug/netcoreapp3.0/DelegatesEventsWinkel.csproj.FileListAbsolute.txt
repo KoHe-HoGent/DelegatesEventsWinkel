@@ -1,0 +1,11 @@
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\bin\Debug\netcoreapp3.0\DelegatesEventsWinkel.exe
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\bin\Debug\netcoreapp3.0\DelegatesEventsWinkel.deps.json
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\bin\Debug\netcoreapp3.0\DelegatesEventsWinkel.runtimeconfig.json
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\bin\Debug\netcoreapp3.0\DelegatesEventsWinkel.runtimeconfig.dev.json
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\bin\Debug\netcoreapp3.0\DelegatesEventsWinkel.dll
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\bin\Debug\netcoreapp3.0\DelegatesEventsWinkel.pdb
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\obj\Debug\netcoreapp3.0\DelegatesEventsWinkel.csprojAssemblyReference.cache
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\obj\Debug\netcoreapp3.0\DelegatesEventsWinkel.AssemblyInfoInputs.cache
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\obj\Debug\netcoreapp3.0\DelegatesEventsWinkel.AssemblyInfo.cs
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\obj\Debug\netcoreapp3.0\DelegatesEventsWinkel.dll
+C:\Users\Kobe\source\repos\DelegatesEventsWinkel\obj\Debug\netcoreapp3.0\DelegatesEventsWinkel.pdb
